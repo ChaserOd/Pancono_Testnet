@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pancono Coin (Panno)</title>
+<style>
+  /* Reset and base */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  body {
+    background-color: #0b1a33; /* dark navy blue */
+    color: #ffffff;
+    line-height: 1.7;
+    padding: 20px;
+    font-size: 18px; /* ⬅️ Increased from default */
+  }
+
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #142a4c;
+    border-radius: 15px;
+    padding: 30px 40px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  }
+
+  h1 {
+    color: #00d4ff;
+    font-size: 2.2em; /* ⬅️ Increased */
+    margin-bottom: 15px;
+  }
+
+  h2 {
+    color: #ffd700;
+    font-size: 1.7em; /* ⬅️ Increased */
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+
+  h3 {
+    font-size: 1.4em; /* ⬅️ Added larger h3 */
+    margin-bottom: 12px;
+  }
+
+  p {
+    margin-bottom: 15px;
+    font-size: 18px; /* ⬅️ Increased */
+  }
+
+  ul {
+    margin-left: 25px;
+    margin-bottom: 15px;
+    font-size: 18px; /* ⬅️ Increased */
+  }
+
+  li {
+    margin-bottom: 12px;
+  }
+
+  .buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+  }
+
+  .buttons a {
+    flex: 1;
+    text-align: center;
+    padding: 18px 20px; /* ⬅️ Slightly bigger */
+    background: #00d4ff;
+    color: #0b1a33;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 18px; /* ⬅️ Increased */
+    transition: 0.3s;
+  }
+
+  .buttons a:hover {
+    background: #00b2cc;
+    color: #ffffff;
+    transform: scale(1.05);
+  }
+
+  .small-note {
+    font-size: 1em;
+    color: #aaaaaa;
+    margin-top: 20px;
+  }
+
+  @media (max-width: 600px) {
+    body {
+      font-size: 17px; /* ⬅️ Slightly reduce on mobile */
+    }
+    .buttons {
+      flex-direction: column;
+    }
+  }
+</style>
+
+</head>
+<body>
+  <div class="container">
+
+<h1>🚀 Inviting friends & Testnet Mining.</h1>
+
+    <p><strong>Step 1: Download:</strong> Download the Pancono Testnet app from the link below.</p>
+
+
+     <p><strong>Step 2: Inviting Friends:</strong> Get Invite friends link from below 'Pancono Telegram Bot' and invite one friend.</p>
+ 
+ <p><strong>Step 3: Mining:</strong> Once you invited one friend, go to downloaded testnet app and click “Start Mine” tab to begin mining Testnet Panno coins. You will see your mining session active and blocks being hashed as shown at above image of app.  
+For every block you mine, you will receive <strong>30 testnet PANNO coins</strong>. Remember that for every 5,000 testnet coins you earn you will earn 1 to 500 Mainnet coins as reward during mainnet launch and airdrop. Therefore Keep mining as many blocks as you can. Once you have mined between 20 to 100 blocks, stop the mining process.</p>
+<p>Next, go to the Pancono folder somewhere at your desktop and locate the<strong>‘wallet_0.dat’</strong> file. This file contains the Testnet coins you mined. Move that file from the Pancono folder to your desktop, then submit it through the  <strong>'Google Form to Submit Wallet_0.dat Files'</strong> provided below. At form find <strong>'Add File'</strong> and submit it from there. Also tick mark done invited one friend.</p>
+        
+<p><strong>Step 4: Repeat the Above Steps:</strong>Follow Rule- Invite one friend and submit one wallet_0.dat file. Repeat the above steps of inviting one friend and submiting file daily as many number of times to maximize your earning testnet coins. Watch below videos on how to mine and submit files.</p>
+
+
+      <!-- Action Buttons -->
+    <div class="buttons">
+      <a href="https://t.me/PanconoWallet_Bot?start" target="_blank"> Pancono Telegram Bot</a>
+       <a href="https://t.me/PanconoWallet_Bot?start" target="_blank">Discord</a>
+     <a href="https://chaserod.github.io/mainnetairdrop_site/" target="_blank">Download Testnet App</a>
+       <a href="https://chaserod.github.io/mainnetairdrop_site/" target="_blank">Download Mainnet App</a>
+    <a href="https://forms.gle/a1up1kC31inM7nVg6" target="_blank">Google Form to Submit Wallet_0.dat Files</a>
+       <a href="https://youtu.be/-cq6h_hmiG8?si=bIt8TGcYTz0OmB-3" target="_blank">How to Mine Video</a>
+       <a href="https://youtu.be/JeepuB2GJ-c?si=j_htpgTBErOM-X4m" target="_blank">How to Submit Wallet_0.dat File Video</a>
+
+    </div>
+
+<p><strong>Note: Mainnet & testnet wallet app download from above links will be available soon in this week. Join out social media for updates:</strong></p>
+    
+    <h2>✨ Airdrop Rewards for Joining and Mining at Testnet</h2>
+    <ul>
+      <li>1️⃣Mine 5,000 testnet coins and you earn you will earn 1 to 500 Mainnet coins.</li>
+      <li>2️⃣Mine 100,000 testnet coins and you earn you will earn 5 to 1000 Mainnet coins.</li>
+      <li>3️⃣Mine 1,000,000 testnet coins and you earn you will earn 10 to 10000 Mainnet coins.</li>
+      <li>4️⃣Mine 10,000,000 testnet coins and you earn you will earn 20 to 100,000 Mainnet coins.</li>
+    </ul>
+
+
+<p>The launch of the mainnet, final airdrop, rewards distribution, and tokenomics will be announced on our official Twitter, Telegram, and other social media accounts.</p>
+
+    
+  
+   
+
+<h2>💻🚀 Earn by Mining Pancono Testnet on Your Laptop/PC!</h2>
+
+<p><strong>Step 1: Download 📥:</strong> Download the Pancono Testnet Wallet app from the link above.</p>
+
+<p><strong>Step 2: Start Mining ⛏️:</strong> Follow the mining process explained above to begin mining PANNO testnet coins. Each mining session generates a <code>wallet_0.dat</code> file containing your mined coins.</p>
+
+<p><strong>Step 3: Collect Wallet Files 📁:</strong> After every mining session, locate the <code>wallet_0.dat</code> file in your Pancono folder. Save and collect as many of those files as you can by mining multiple times.</p>
+
+<p><strong>Step 4: Sell Your Wallet Files 💰:</strong> At social media you can post your selling offers or give it for free to any users to attract new referrals.</p>
+
+<p><strong>Step 5: Earn Big 💸🔥:</strong> Users without a laptop/PC are ready to buy your mined testnet coins. This gives you a chance to earn <strong>hundreds or even thousands of dollars</strong> now and in the future.</p>
+
+<p>Start mining today and turn your computer into an earning machine! 🚀💻🔥</p>
+
+    <p> Image of Pancono wallet app.</p>
+ <!-- How it Works image -->
+    <img src="images/imagea.png" alt="How it Works Illustration" style="max-width:100%; margin-top:15px; border-radius:10px;">
+
+ </div>
+</body>
+</html>
